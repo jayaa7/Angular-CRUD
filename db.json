@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "firstName": "radhe",
+      "lastName": "shyam",
+      "email": "radheshyam@gmail.com",
+      "mobile": "9567291704",
+      "salary": "$ 789",
+      "id": 1
+    },
+    {
+      "firstName": "raj",
+      "lastName": "",
+      "email": "raj@gmail.com",
+      "mobile": "678457999",
+      "salary": "50,000",
+      "id": 3
+    },
+    {
+      "firstName": "gagan",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "salary": "",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "firstName": "uygg",
+      "lastName": "gvjhgk",
+      "email": "hgkjgk",
+      "mobile": "5875785",
+      "salary": "6887687"
+    },
+    {
+      "id": 6,
+      "firstName": "sashi ",
+      "lastName": "yadav",
+      "email": "sahiyadav@gmail.com",
+      "mobile": "53654765878",
+      "salary": "50,000"
+    },
+    {
+      "firstName": "jaya",
+      "lastName": "bachle",
+      "email": "jayabachle@gmail.com",
+      "mobile": "6265782329",
+      "salary": "",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "firstName": "ram",
+      "lastName": "kumar",
+      "email": "ramkumar@gmail.com",
+      "mobile": "8869364120",
+      "salary": "$60"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
